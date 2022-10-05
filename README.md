@@ -6,6 +6,7 @@ This application was generated using http://start.vertx.io
 
 ## Vertx features
 
+- Database migration (Flyway)
 - RESTful API
 - Authentication & Authorization with JWT
 - Resilience
